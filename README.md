@@ -1,2 +1,2 @@
 # StudHub
-Educational Platform for Students.
+E-learning Platform for Students.

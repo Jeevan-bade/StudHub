@@ -1,6 +1,6 @@
-## StudHub: All in One E-Learning platfrom.
+# StudHub: All in One E-Learning platfrom.
 
-# To run Web Application on Local Machine follow below steps:
+## To run Web Application on Local Machine follow below steps:
 ``` sh
 # Step 1: Clone the repository using the project's Git URL.
 git clone https://github.com/Jeevan-bade/StudHub.git
